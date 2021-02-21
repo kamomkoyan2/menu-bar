@@ -1,10 +1,7 @@
 import react, { useLayoutEffect, useState } from "react";
 
 const ListCocktails = ( props ) => {
-   const [ isTruncated, setIsTruncated ] = useState(true);
-
-   
-
+   const [ readMore, setReadMore ] = useState(false);
    const { cocktails } = props;
    if (!cocktails || cocktails.length === 0) return <p className="no-cocktails">There arn't Cocktails </p>;
    
