@@ -1,7 +1,7 @@
 # menu-bar
 
 # server
-npm install  <br />
+npm install  <br /> <br />
 npm start <br />
 ## client
 npm install <br />
