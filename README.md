@@ -4,11 +4,11 @@
 npm install  <br />
 npm start <br />
 ## client
-npm install
-npm start
+npm install <br />
+npm start <br />
 
 ### Postgres
-Install Postgres
-Initialize Database
+Install Postgres <br />
+Initialize Database <br />
 
 
