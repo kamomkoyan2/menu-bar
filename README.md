@@ -3,6 +3,7 @@
 ## Postgres
 Install Postgres <br /> <br />
 Initialize Database <br />
+![](server/config/db.js)
 
 ### server
 npm install  <br /> <br />
